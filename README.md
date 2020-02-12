@@ -1,10 +1,3 @@
-# Deprecated!
-
-As of Feb 11th 2020, request is fully deprecated. No new changes are expected to land. In fact, none have landed for some time.
-
-For more information about why request is deprecated and possible alternatives refer to
-[this issue](https://github.com/request/request/issues/3142).
-
 # Request - Simplified HTTP client
 
 [![npm package](https://nodei.co/npm/request.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/request/)
